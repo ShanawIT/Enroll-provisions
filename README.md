@@ -15,5 +15,4 @@ environment.
 <h2>Enrolled all three users below from Inactive to Active status.
 </h2>
 <p>
-<img width="990" height="221" alt="image"
-src="https://github.com/user-attachments/assets/8403082f-5c81-4e15-8106-7a9f28328e20" />
+<img width="973" height="263" alt="Screenshot 2026-09-10 at 5 30 01 PM" src="https://github.com/user-attachments/assets/cc279f97-161a-408f-88f4-fb93f8c7dd7e" />
